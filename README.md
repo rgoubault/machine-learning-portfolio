@@ -34,9 +34,18 @@ Task:
 1. We aim to accomplish building a prediction model that will classify whether user (i.e. customer) intended to make a purchase on online webstore. The dataset is from an online webstore and is related to user activites on the webstore.
 
 
+
 ## Project: Predicting Breast Cancer
 https://github.com/rgoubault/machine_learning/blob/main/breast_cancer_v1.ipynb
 
 Task:
 1. We aim to accomplish building a prediction model that will classify whether or not breast tissue is malignant (cancerous) or benign (harmless). The dataset contains measurements of breast tissue, obtained by a medical imaging technique. From that, several measurements of the cell nuclei are derived.
+
+
+
+## Project: Predicting Stroke
+
+Task:  
+1. We aim to accomplish building a prediction model that will classify whether a patient is likely to get a stroke or not.
+
 
