@@ -3,7 +3,7 @@ LinkedIn: https://www.linkedin.com/in/rainiergoubault/
 
 
 ## Project: Predicting Customer Churn (Bank)
-https://github.com/rgoubault/machine_learning/blob/main/bank_customer_churn.ipynb
+https://github.com/rgoubault/machine_learning/blob/main/customer_churn_bank.ipynb
 
 Task:
 1. Identify and visualize which factors contribute to customer churn for the bank.
