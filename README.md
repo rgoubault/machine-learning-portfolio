@@ -12,6 +12,7 @@ Task:
 
 
 ## Project: Predicting Customer Churn (Telecommunications)
+https://github.com/rgoubault/machine_learning/blob/main/customer_churn_telco.ipynb
 
 Task:
 1. Identify and visualize which factors contribute to customer churn for the telecommunications company.
