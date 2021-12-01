@@ -21,7 +21,7 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 [View Notebook](https://github.com/rgoubault/machine_learning/blob/main/customer_churn_telco.ipynb)
 
 
-## 03: Predicting Customer Purchase (Car Insurance) -- Porject Status: [Completed]
+## 03: Predicting Customer Purchase (Car Insurance) -- Project Status: [Completed]
 ### Task:
 1. We aim to accomplish building a prediction model that will classify whether customers will buy car insurance or not. 
 
