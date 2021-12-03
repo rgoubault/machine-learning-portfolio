@@ -33,7 +33,6 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 
 ## 04: Predicting Online Shoppers Purchase Intent (Retail) 
 ##### -- Project Status: [Completed]
+[View Notebook](https://nbviewer.org/github/rgoubault/ml_portfolio/blob/main/predict-online-shoppers-purchase-intent/01-notebook/online-shoppers-purchase-intent.ipynb)
 ### Task:
 1. We aim to accomplish building a prediction model that will classify whether user (i.e. customer) intended to make a purchase on online webstore. The dataset is from an online webstore and is related to user activites on the webstore.
-
-[View Notebook](https://github.com/rgoubault/machine_learning/blob/main/online_shoppers.ipynb)
