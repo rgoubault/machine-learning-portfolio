@@ -20,7 +20,7 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 1. We aim to accomplish building a prediction model that will classify whether customers will buy car insurance or not. 
 
 
-## Predicting Online Shoppers Purchase Intent (Retail) 
+## Predicting Website Visitor Purchase Intent (Retail) 
 ##### -- Project Status: [Completed]
 [View Notebook](https://nbviewer.org/github/rgoubault/ml_portfolio/blob/main/predict-online-shoppers-purchase-intent/01-notebook/online-shoppers-purchase-intent.ipynb)
 ### Task:
