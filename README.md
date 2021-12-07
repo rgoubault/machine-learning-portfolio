@@ -26,9 +26,3 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 ### Task:
 1. We aim to accomplish building a prediction model that will classify whether user (i.e. customer) intended to make a purchase on online webstore. The dataset is from an online webstore and is related to user activites on the webstore.
 
-
-## Predicting Customer Churn (Telecommunications) 
-##### -- Project Status: [Active]
-### Task:
-1. Identify and visualize which factors contribute to customer churn for the telecommunications company.
-2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company (telecommunications) to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
