@@ -11,7 +11,8 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 ### Task:
 1. Identify and visualize which factors contribute to customer churn for the bank.
 2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
-
+<br />
+<br />
 
 ## Predicting Customer Churn (Bank) 
 ##### -- Project Status: [Completed]
