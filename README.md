@@ -5,12 +5,22 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 
 # Projects
 
+## Predicting Customer Churn (Telecommunications)
+![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/customer-churn-telco.png)
+##### -- Project Status: [Completed]
+[View Notebook](https://github.com/rgoubault/machine-learning-portfolio/blob/main/customer-churn-telco/01-notebook/customer-churn-telco.ipynb)
+<br />
+### Task:
+1. Identify and visualize which factors contribute to customer churn for the bank.
+2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
+
+
 ## Predicting Customer Churn (Bank) 
 ##### -- Project Status: [Completed]
 [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/customer-churn-bank/01-notebook/customer-churn-bank.ipynb)
 ### Task:
 1. Identify and visualize which factors contribute to customer churn for the bank.
-2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company (bank) to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
+2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
 
 
 ## Predicting Customer Purchase (Car Insurance) 
