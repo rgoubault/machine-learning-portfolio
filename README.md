@@ -9,6 +9,7 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 ##### -- Project Status: [Completed] 
 [View Notebook](https://github.com/rgoubault/machine-learning-portfolio/blob/main/customer-churn-telco/01-notebook/customer-churn-telco.ipynb)
 <br />
+
 ![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/customer-churn-telco.png)
 ### Task:
 1. Identify and visualize which factors contribute to customer churn for the bank.
