@@ -4,7 +4,7 @@ This respository hosts the machine learning portfolio by [Rainier Goubault](http
 ##### -- Project Status: [Active, On-Hold, Completed]
 
 # Projects
-![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/Predicting%20Customer%20Churn.png)
+![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/cutomer-churn-bank-github.png)
 #### [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-churn-banking/customer-churn-bank.ipynb) | -- Project Status: [Completed] 
 
 ### Task:
