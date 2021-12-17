@@ -1,5 +1,5 @@
-# Project Name: Machine Learning Portfolio
-This respository hosts machine learning projects by [Rainier Goubault](https://www.linkedin.com/in/rainiergoubault/)
+# Rainier Goubault Machine Learning Portfolio
+This respository hosts the machine learning portfolio by [Rainier Goubault](https://www.linkedin.com/in/rainiergoubault/)
 
 ##### -- Project Status: [Active, On-Hold, Completed]
 
