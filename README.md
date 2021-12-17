@@ -20,7 +20,7 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 ##### -- Project Status: [Completed]  |   [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-churn-banking/customer-churn-bank.ipynb)
 <br />
 
-![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/customer-churn-bank.png)
+![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/Predicting%20Customer%20Churn.png)
 ### Task:
 1. Identify and visualize which factors contribute to customer churn.
 2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
