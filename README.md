@@ -4,12 +4,21 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 ##### -- Project Status: [Active, On-Hold, Completed]
 
 # Projects
+![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/Predicting%20Customer%20Churn.png)
+#### [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-churn-banking/customer-churn-bank.ipynb) | -- Project Status: [Completed] 
+
+### Task:
+1. Identify and visualize which factors contribute to customer churn.
+2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
+<br />
+<br />
+
 
 ### [Predicting Customer Churn (Telecommunications)](https://github.com/rgoubault/machine-learning-portfolio/blob/main/customer-churn-telco/01-notebook/customer-churn-telco.ipynb)
 ##### -- Project Status: [Completed]  |  [View Notebook](https://github.com/rgoubault/machine-learning-portfolio/blob/main/customer-churn-telco/01-notebook/customer-churn-telco.ipynb)
 <br />
 
-![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/customer-churn-telco.png)
+
 ### Task:
 1. Identify and visualize which factors contribute to customer churn.
 2. We aim to accomplish building a prediction model that will classify if a customer is going to churn or not, making it easier for the company to target 'high-risk' customers (ie. those that might churn) as apart of it retention strategy/efforts.
