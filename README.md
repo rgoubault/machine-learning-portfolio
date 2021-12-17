@@ -16,8 +16,8 @@ This respository hosts machine learning projects by [Rainier Goubault](https://w
 <br />
 <br />
 
-### [Predicting Customer Churn (Banking)](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/customer-churn-bank/01-notebook/customer-churn-bank.ipynb)
-##### -- Project Status: [Completed]  |   [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/customer-churn-bank/01-notebook/customer-churn-bank.ipynb)
+### [Predicting Customer Churn (Banking)](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-churn-banking/customer-churn-bank.ipynb)
+##### -- Project Status: [Completed]  |   [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-churn-banking/customer-churn-bank.ipynb)
 <br />
 
 ![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/customer-churn-bank.png)
