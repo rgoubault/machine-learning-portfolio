@@ -5,7 +5,7 @@ This respository hosts the machine learning portfolio by [Rainier Goubault](http
 
 # Projects
 ![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/cutomer-churn-bank-github.png)
-#### [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-churn-banking/customer-churn-bank.ipynb) | -- Project Status: [Completed] 
+#### [View Notebook](https://nbviewer.org/github/rgoubault/machine-learning-portfolio/blob/3e378c8d05768028e0e2cced9e334c5b350e5e77/01-notebook/customer-churn-banking/customer-churn-bank-final.ipynb) | -- Project Status: [Completed] 
 
 ### Task:
 1. Identify and visualize which factors contribute to customer churn.
