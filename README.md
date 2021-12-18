@@ -15,7 +15,7 @@ This respository hosts the machine learning portfolio by [Rainier Goubault](http
 
 
 ![This is an image](https://github.com/rgoubault/machine-learning-portfolio/blob/main/images/customer-purchase-insurance-github.png)
-#### [View Notebook](https://github.com/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-purchase-insurance/customer-purchase-insurance.ipynb) | -- Project Status: [Completed] 
+#### [View Notebook](https://github.com/rgoubault/machine-learning-portfolio/blob/main/01-notebook/customer-purchase-insurance/customer-purchase-insurance-final.ipynb) | -- Project Status: [Completed] 
 
 ### Task:
 1. Identify and visualize which factors contribute to customer purchases.
